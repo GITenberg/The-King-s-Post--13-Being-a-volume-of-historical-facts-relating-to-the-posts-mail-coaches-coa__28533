@@ -1,0 +1,30 @@
+_repo: The-King-s-Post--13-Being-a-volume-of-historical-facts-relating-to-the-posts-mail-coaches-coa__28533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tombs, Robert Charles
+    alias: Tombs, R. C. (Robert Charles)
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '33387'
+    url: http://www.gutenberg.org/2009/agents/33387
+description: ''
+gutenberg_issued: '2009-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28533'
+  lccn: '49038705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postal service -- England -- Bristol'
+title: "The King's Post\r\nBeing a volume of historical facts relating to the posts,\
+  \ mail coaches, coach roads, and railway mail services of and connected with the\
+  \ ancient city of Bristol from 1580 to the present time"
+url: http://www.gutenberg.org/ebooks/28533
